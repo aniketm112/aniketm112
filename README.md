@@ -2,8 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6366F1&height=200&section=header&text=Aniket%20Maurya&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI/ML%20%7C%20Adtekro%20%7C%20Building%20in%20Public&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Co-Founder+%40+Adtekro;DSA+%2B+C%2B%2B+%2B+LeetCode+75;Filmmaker+turned+Developer;Building+towards+Microsoft+%2F+Google)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Co-Founder+%40+Adtekro;DSA+%2B+C%2B%2B+%2B+LeetCode;Content+Creator+%26+Developer;Building+towards+Microsoft+%2F+Google)](https://git.io/typing-svg)
 ![Skills](https://skillicons.dev/icons?i=cpp,python,java,html,css,git,tensorflow,opencv)
 
 </div>
