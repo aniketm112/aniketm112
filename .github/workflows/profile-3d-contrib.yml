@@ -2,8 +2,8 @@ name: 3D Profile Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs once a day
-  workflow_dispatch:      # lets you trigger it manually too
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,8 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: aniketm112
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit and push
         run: |
           git config user.name github-actions
