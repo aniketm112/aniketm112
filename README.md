@@ -1,35 +1,18 @@
 <div align="center">
 
-# Hi, I'm Aniket 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6366F1&height=200&section=header&text=Aniket%20Maurya&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI/ML%20%7C%20Adtekro%20%7C%20Building%20in%20Public&descAlignY=65)
 
-**Building Myself | CSE (AI/ML) '29 | Filmmaker and Developer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Co-Founder+%40+Adtekro;DSA+%2B+C%2B%2B+%2B+LeetCode+75;Filmmaker+turned+Developer;Building+towards+Microsoft+%2F+Google)](https://git.io/typing-svg)
+
+![Skills](https://skillicons.dev/icons?i=cpp,python,java,html,css,git,tensorflow,opencv)
+
 </div>
-name: 3D Profile Contribution Graph
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # runs once a day
-  workflow_dispatch:      # lets you trigger it manually too
+<div align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: aniketm112
-      - name: Commit and push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -f ./profile-3d-contrib/*.svg
-          git commit -m "Update 3D contribution graph" || echo "No changes"
-          git push
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 <table>
 <tr>
