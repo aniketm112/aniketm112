@@ -21,13 +21,13 @@
 aniket@github
 ─────────────────────────────────────
 OS: ..................... Mumbai, India
-Role: .................... Co-Founder @ Adtekro
+Role: .................... Learing New Things Everyday
 Field: ................... B.Tech CSE (AI/ML), 2nd Year
 Base: ..................... Mumbai, India
 
-Focus.Primary: ........... DSA (C++) | Coding
+Focus.Primary: ........... DSA (C++/Java) | Coding
 Focus.Secondary: ......... ML Projects | Open Source
-Goal: ..................... Microsoft / Google Internship
+Goal: ..................... FAANG Internship
 
 Background: .............. Filmmaking, Video Editing,
                             Content Creation
@@ -40,7 +40,6 @@ Tools: .................... VS Code, MSYS2/GCC, Git
 ─────────────────────────────────────
 Contact
 Instagram: ............... @whyanikett
-Company: .................. Adtekro
 ─────────────────────────────────────
 ```
 
@@ -50,7 +49,7 @@ Company: .................. Adtekro
 ### 🚀 What I'm Doing
 
 - 🎯 Grinding **DSA** with the LeetCode
-- 🏗️ Co-building **Adtekro** — a digital agency for marketing + web/app dev
+- 🏗️ Want to Be an ML Engineer
 - 🎥 Creating cinematic, story-driven content on Instagram and Youtube
 
 ### 🛠️ Tech Stack
